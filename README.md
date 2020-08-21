@@ -95,3 +95,15 @@ gap: 10px 20px;
 ---
 
 more css layout examples: https://codepen.io/collection/AQkgKB?grid_type=list
+
+# CSS Animations 
+
+## Tools
+
+[cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+[easings](https://easings.net/)
+[bounceJS](http://bouncejs.com/)
+[svg-omg](https://jakearchibald.github.io/svgomg/)
+[greensock](https://greensock.com/)
+[snap.svg](http://snapsvg.io/)
+[codepen](https://codepen.io/)

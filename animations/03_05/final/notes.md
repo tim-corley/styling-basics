@@ -1,0 +1,1 @@
+use photoshop to combine all png "frames" into a single image file.

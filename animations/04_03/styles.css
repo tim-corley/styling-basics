@@ -1,0 +1,29 @@
+.wrap {
+  width: 40%;
+  margin: 4em auto;
+}
+
+.fill {
+  animation: charge 1.5s cubic-bezier(0.17, 0.67, 0.54, 0.99),
+    changeColor 1.5s ease-out forwards;
+}
+
+@keyframes charge {
+  0% {
+    transform: scaleX(0.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes changeColor {
+  0%,
+  25% {
+    fill: red;
+  }
+  30%,
+  100% {
+    fill: #72cc58;
+  }
+}
